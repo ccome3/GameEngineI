@@ -5,9 +5,18 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/GameengineI/Scenes/Menu.unity
+    guid: 7ab8e71f8e9bc044298ea2cdfd96153b
+  - enabled: 1
+    path: Assets/GameengineI/Scenes/SunnyLand_Level1.unity
+    guid: 981318856f60b6e488f56818099f9099
+  - enabled: 1
+    path: Assets/GameengineI/Scenes/SunnyLand_Level2.unity
+    guid: 6f015b11b909b2d499e805114203afcf
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
